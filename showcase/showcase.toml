@@ -1,0 +1,11 @@
+[[media]]
+file = "curve.json.gz"
+name = "A live shot bending through the gravity well"
+
+[[media]]
+file = "live.png"
+name = "A wave in flight around the star"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
